@@ -1,0 +1,8 @@
+deploy.bat
+.railway
+target
+__pycache__
+*.pyc
+.idea
+.vscode
+node_modules
